@@ -4,3 +4,5 @@ step 3. the markdown link shoud be like
 ```
 ![photo_name.jpeg](https://cdn.jsdelivr.net/gh/hello-kukoo/awesome-pictures@main/photos/<subfolder>/photo_name.jpeg)
 ```
+
+config github tokens: https://github.com/settings/tokens
